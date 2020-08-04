@@ -1,0 +1,9 @@
+{
+    "bind": "localhost",
+    "port": 5000,
+    "ams" : "https://localhost",
+    "token": "fubar",
+    "verify": "false",
+    "ratelimit_window_ms": 60000,
+    "ratelimit_max_requests": 10 
+}
